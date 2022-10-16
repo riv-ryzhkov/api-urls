@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+venv
+/shorturl/db.sqlite3
+/static
+.DS_Store
